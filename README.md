@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me ❤️
+I'm an enthusiast of programming, using artificial intelligence and creating 3D models with Blender. Feel free to explore my repositories and collaborate on any project you are interested in.
 
 <!--
 **Teknaive/Teknaive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
